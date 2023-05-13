@@ -34,7 +34,7 @@ MLAnalysis should have the following directory structure:
 ├── Applications/
 │   ├── AAWW/
 │   ├── AW/
-│   └── AZ/
+│   ├── AZ/
 │   └── ...
 ├── CEVisualize/
 ├── CutAndExport/
@@ -42,6 +42,7 @@ MLAnalysis should have the following directory structure:
 ├── Interfaces/
 ├── __init__.py
 └── README.md
+```
 
 The `Applications/` directory contains subdirectories for different applications, many of them have already been used in previous studies. 
 The `CutAndExport/` directory contains files implementing the cut functionality.
