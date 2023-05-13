@@ -25,6 +25,8 @@ CutEvents(events, cut)
 
 ```
 
+Optinally, you can run `Example.py' as a test
+
 ## Directory Structure
 
 MLAnalysis should have the following directory structure:
@@ -41,6 +43,7 @@ MLAnalysis should have the following directory structure:
 ├── DataStructure/
 ├── Interfaces/
 ├── __init__.py
+├── Example.py
 └── README.md
 ```
 
